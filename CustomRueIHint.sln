@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRueIHint", "CustomRueIHint\CustomRueIHint.csproj", "{82A8ED2F-0701-4612-A610-C9D894990224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A8ED2F-0701-4612-A610-C9D894990224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A8ED2F-0701-4612-A610-C9D894990224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A8ED2F-0701-4612-A610-C9D894990224}.Debug|x64.ActiveCfg = Debug|x64
+		{82A8ED2F-0701-4612-A610-C9D894990224}.Debug|x64.Build.0 = Debug|x64
+		{82A8ED2F-0701-4612-A610-C9D894990224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A8ED2F-0701-4612-A610-C9D894990224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A8ED2F-0701-4612-A610-C9D894990224}.Release|x64.ActiveCfg = Release|x64
+		{82A8ED2F-0701-4612-A610-C9D894990224}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B0A8FC7-358B-447C-968B-E744FD069E4B}
+	EndGlobalSection
+EndGlobal
